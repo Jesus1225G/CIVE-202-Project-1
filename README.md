@@ -1,2 +1,2 @@
 # CIVE-202-Project-1
-UNMC has teamed up with AirPurple to analyze air data gathered across all of Nebraska. The goal of this project is to help UNMC better understand pollutant levels, potential health concerns, hotspots of emissions, and what conditions affect air quality in Nebraska. With our help, UNMC hopes to understand and address issues of air quality and create solutions to those problems
+UNMC has teamed up with AirPurple to analyze air data gathered across all of Nebraska. The goal of this project is to help UNMC better understand pollutant levels, potential health concerns, hotspots of emissions, and what conditions affect air quality in Nebraska. With our help, UNMC hopes to understand and address issues of air quality and create solutions to those problems.
